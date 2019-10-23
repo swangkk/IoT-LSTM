@@ -1,0 +1,3 @@
+LSTM v1 : 9개 입력 rag10 
+LSTM v2 : 15개 입력 rag15
+LSTM v3 : 15개 입력 rag15 + LSTM layer 2겹
